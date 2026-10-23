@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" /></a>
+  <a href="www.linkedin.com/in/hendrik-vanwingerden-179273308"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f" />
   <img src="https://img.shields.io/badge/Security+-In_Progress-orange" />
 </p>
@@ -16,7 +16,7 @@
 A **retired U.S. Navy veteran** and **cybersecurity student** with a background in gas turbine systems and hands-on IT support. I focus on **network security**, **Linux**, and **system hardening**, and I run a homelab to practice what I learn.
 
 - 🛠️ **Former Geek Squad technician**: hardware repair, troubleshooting, and malware removal
-- 🎯 **Core focus**: network defense, system hardening, and OT/ICS security
+- 🎯 **Core focus**: network defense, system hardening, and Linux system administration
 
 ---
 
