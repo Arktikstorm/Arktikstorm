@@ -56,7 +56,7 @@ A **retired U.S. Navy veteran** and **cybersecurity student** with a background 
 
 ---
 
-## 📁 Featured Projects
+## 📁 Current Focus
 
 <table>
   <tr>
