@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/hendrik-vanwingerden-179273308"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/hendrik-vanwingerden-179273308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f" />
   <img src="https://img.shields.io/badge/Security+-In_Progress-orange" />
 </p>
